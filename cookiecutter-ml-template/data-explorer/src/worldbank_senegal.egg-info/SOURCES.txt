@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/worldbank/__init__.py
+src/worldbank/api.py
+src/worldbank/getter.py
+src/worldbank_senegal.egg-info/PKG-INFO
+src/worldbank_senegal.egg-info/SOURCES.txt
+src/worldbank_senegal.egg-info/dependency_links.txt
+src/worldbank_senegal.egg-info/requires.txt
+src/worldbank_senegal.egg-info/top_level.txt
+tests/test_api.py

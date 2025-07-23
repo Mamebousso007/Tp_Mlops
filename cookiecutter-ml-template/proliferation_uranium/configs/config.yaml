@@ -1,0 +1,5 @@
+defaults:
+  - models: rf
+  - data: iris
+  - train: default
+

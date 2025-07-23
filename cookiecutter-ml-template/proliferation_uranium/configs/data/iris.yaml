@@ -1,0 +1,2 @@
+path: "data/iris.csv"
+target_column: "species"
