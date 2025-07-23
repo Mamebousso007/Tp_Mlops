@@ -1,0 +1,22 @@
+2025-06-30 21:11:24 - app_logger - INFO - Démarrage du programme
+2025-06-30 21:11:24 - app_logger - DEBUG - Tentative de division 10 / 2
+2025-06-30 21:11:24 - app_logger - INFO - Résultat de 10 / 2 = 5.0
+2025-06-30 21:11:24 - app_logger - DEBUG - Tentative de division 5 / 0
+2025-06-30 21:11:24 - app_logger - ERROR - Division par zéro !
+Traceback (most recent call last):
+  File "C:\Users\MSI\Documents\Master2\lmops\m2dsia_web_app\tests\main.py", line 25, in division
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2025-06-30 21:11:24 - app_logger - WARNING - Fin du programme
+2025-06-30 21:49:35 - app_logger - INFO - Démarrage du programme
+2025-06-30 21:49:35 - app_logger - DEBUG - Tentative de division 10 / 2
+2025-06-30 21:49:35 - app_logger - INFO - Résultat de 10 / 2 = 5.0
+2025-06-30 21:49:35 - app_logger - DEBUG - Tentative de division 5 / 0
+2025-06-30 21:49:35 - app_logger - ERROR - Division par zéro !
+Traceback (most recent call last):
+  File "C:\Users\MSI\Documents\Master2\lmops\m2dsia_web_app\tests\main.py", line 25, in division
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2025-06-30 21:49:35 - app_logger - WARNING - Fin du programme
